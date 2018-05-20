@@ -1,4 +1,4 @@
-/* grey header*/
+/* orange header*/
 #bar{
 	background-color: orange;
 	color: white;
@@ -19,18 +19,7 @@
 nav{
 	
 }
-
-.btn-warning{
-	background-color:orange;
-	color: white;
-	margin-left: 50px; 
-}
-
-body{
-	background-color: white;
-	font-family: 'open Sans' , sans-serif;
-	color: black;
-}
+/* HEADER */
 
 #title{
 	text-align: center;
@@ -43,8 +32,29 @@ body{
 	margin-top: 20px;
 }
 
+.btn{
+	 border: 1px solid orange;
+	 border-
+}
+
+.btn-warning{
+	background-color:orange;
+	color: white;
+	margin-left: 50px; 
+}
+
+/* IMAGES */
+
+body{
+	background-color: white;
+	font-family: 'open Sans' , sans-serif;
+	color: black;
+}
 
 
+
+
+/**************/
 
 footer{
 	font-size: 0.75em;
