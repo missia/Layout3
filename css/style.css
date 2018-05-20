@@ -1,0 +1,50 @@
+/* grey header*/
+#bar{
+	background-color: orange;
+	color: white;
+	
+}
+#top{
+	text-align:right;
+	margin-left: 50px;
+	
+}
+
+nav{
+	
+}
+
+.btn-warning{
+	background-color:orange;
+	color: white;
+	margin-left: 100px; 
+}
+
+body{
+	background-color: white;
+	font-family: 'open Sans' , sans-serif;
+	color: black;
+}
+
+#title{
+	text-align: center;
+	margin-top: 90px;
+	color: orange;
+}
+
+#title1{
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+
+
+footer{
+	font-size: 0.75em;
+	text-align: left;
+	padding-top: 20px;
+	color: black;
+	margin-top: 200px;
+	
+}
